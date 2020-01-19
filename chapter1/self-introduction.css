@@ -1,0 +1,9 @@
+body {
+  background-color: lightblue;
+  color: darkblue;
+}
+
+table, td, th {
+  border: solid 1px gray;
+  background-color: white;
+}
